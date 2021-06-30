@@ -1,0 +1,10 @@
+.env
+.idea
+*pyc
+__pycache__
+.ipynb_checkpoints
+.vscode
+.coverage
+.ipynb
+_challenges
+_contrib
